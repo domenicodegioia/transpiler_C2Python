@@ -11,7 +11,7 @@ Professor: *Floriano Scioscia*
 
 This project is a simple implementation of a source-to-source compiler from C to Python for the course *Formal Languages and Compiler* at Polytechnic University of Bari.
 
-SCRIVERE GOAL
+The main goal of this project was to create a software that can translate source code written in the C programming language into equivalent Python code. This transpiler was designed to ease the migration of existing C applications to the Python development environment by providing an efficient way to convert code without having to completely rewrite it. The aim of this work is to make a one-way translation between two high-level programming languages to simulate the behavior of a compiler. The compiler was built in C language with the help of the automatic tools *Flex* scanner generator and the *Bison* parser generator.
 
 ## Table of contents
 - [C2Python](#c2python)
